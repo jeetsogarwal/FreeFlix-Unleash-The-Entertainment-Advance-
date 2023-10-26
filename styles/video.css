@@ -26,7 +26,7 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 14px;
   font-weight: 500;
-  margin-top: 0;
+  margin-top: 10px;
   line-height: 20px;
   margin-bottom: 10px;
   padding-left: 10px;
@@ -41,6 +41,7 @@
   width: 40px;
   border-radius: 50%;
   padding-left: 2px;
+  margin-top: 15px;
 }
 
 .video-author {
